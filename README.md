@@ -2,7 +2,7 @@
 
 ## 1. PHP-for-Beginers
 - ~~01-Let_s Write Some PHP~~
-- 02-PHP Functions
+- ~~02-PHP Functions~~
 - 03-PHP Arrays and Loops
 - 04-PHP Associative Arrays
 - 05-Multi-dimensional Arrays
